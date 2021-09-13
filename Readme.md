@@ -18,12 +18,14 @@ I'll try to commit things here and there but I am in the very early stages which
 produce a formal system that uses rudimentary reasoning patterns to reason within in toy problem domains.
 
 If you feel like these sort of problems give you wild eyes and your hearts race with excitement or are just interested in fucking shit up please reach out on 
-- computationreasoning@gmail.com
+computationreasoning@gmail.com
 
 I am especially interested to hear from people who communicate in the form of Haiku (albeit poor!).
 
 ---------
 
 So the seed is sown;
+
 With the lull into Autumn;
+
 Dreams do softly glow;
