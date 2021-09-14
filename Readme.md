@@ -11,16 +11,16 @@ to peice together a framework or methodology to allow computational agents to re
 I love application as well as theory and would love to find a way to 
 connect with people who like think/talk about these sort of things. I have realised the need for connections and collaboration. 
 
-Hopefully to find someone or a group of people who would be interested in researching/implementing/commercialising ideas related to this area. I have some 
+I am hoping to find someone or a group of people who would be interested in researching/implementing/commercialising ideas related to this area. I have some 
 initial use cases to orientate around initially. 
 
-I'll might commit things here and there but I am in the very early stages which largely consists of pen and paper notebooks and just beginning to try and 
-produce a formal system that uses rudimentary reasoning patterns to reason within in toy problem domains.
+I'll commit things here and there as they come up but I am in the very early stages which largely consists of pen and paper notebooks and just beginning to try and 
+produce a formal system that uses rudimentary reasoning patterns to reason within toy problem domains.
 
-If you feel like these sort of problems give you wild eyes and your hearts race with excitement or are just interested in fucking shit up please reach out on 
+If these sort of problems give you wild eyes and make your heart race with excitement please reach out on 
 computationreasoning@gmail.com
 
-I am especially interested to hear from people who communicate in the form of Haiku (albeit poor!).
+I am especially interested to hear from people who communicate in the form of Haiku (albeit poorly written!).
 
 ---------
 
