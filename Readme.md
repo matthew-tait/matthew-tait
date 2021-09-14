@@ -12,7 +12,7 @@ I love application as well as theory and would love to find a way to
 connect with people who like to think/talk about these sort of things. I have realised the need for connections and collaboration. 
 
 I am hoping to find someone or a group of people who would be interested in researching/implementing/commercialising ideas related to this area. I have some 
-initial use cases to orientate around initially. 
+initial use cases to orientate around. 
 
 I'll commit things here and there as they come up but I am in the very early stages which largely consists of pen and paper notebooks and just beginning to try and 
 produce a formal system that uses rudimentary reasoning patterns to reason within toy problem domains.
