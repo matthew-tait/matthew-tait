@@ -9,7 +9,7 @@ I wouldn't say I am necessarily technically skilled in this area but I do have a
 to peice together a framework or methodology to allow computational agents to reason around restricted technical domains.
 
 I love application as well as theory and would love to find a way to 
-connect with people who like think/talk about these sort of things. I have realised the need for connections and collaboration. 
+connect with people who like to think/talk about these sort of things. I have realised the need for connections and collaboration. 
 
 I am hoping to find someone or a group of people who would be interested in researching/implementing/commercialising ideas related to this area. I have some 
 initial use cases to orientate around initially. 
