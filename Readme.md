@@ -2,7 +2,7 @@ Helloooo,
 
 Broadly I am interested in modelling problem spaces rather than solution spaces.
 
-I am fascinated by computation reasoning and busy researching(privately)/learning about various methods and techniques relating to Inductive Logic Programming,
+I am fascinated by computational reasoning and busy researching(privately)/learning about various methods and techniques relating to Inductive Logic Programming,
 Statistical Relational Learning, Reinforcement Learning and Knowledge Bases/graphs. 
 
 I wouldn't say I am necessarily technically skilled in this area but I do have a huge amount of passion and drive. I am currently trying to figure out how
