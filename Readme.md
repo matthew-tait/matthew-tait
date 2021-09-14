@@ -17,7 +17,7 @@ initial use cases to orientate around.
 I'll commit things here and there as they come up but I am in the very early stages which largely consists of pen and paper notebooks and just beginning to try and 
 produce a formal system that uses rudimentary reasoning patterns to reason within toy problem domains.
 
-If these sort of problems give you wild eyes and make your heart race with excitement please reach out on 
+If this problem domain gives you wild eyes and makes your heart race with excitement please reach out on 
 computationreasoning@gmail.com
 
 I am especially interested to hear from people who communicate in the form of Haiku (albeit poorly written!).
