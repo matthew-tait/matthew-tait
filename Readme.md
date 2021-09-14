@@ -6,7 +6,7 @@ I am fascinated by computational reasoning and busy researching(privately)/learn
 Statistical Relational Learning, Reinforcement Learning and Knowledge Bases/graphs. 
 
 I wouldn't say I am necessarily technically skilled in this area but I do have a huge amount of passion and drive. I am currently trying to figure out how
-to peice together a framework or methodology to allow computational agents to reason around restricted technical domains.
+to peice together a framework or methodology to allow computational agents to reason and problem solve within restricted technical domains.
 
 I love application as well as theory and would love to find a way to 
 connect with people who like to think/talk about these sort of things. I have realised the need for connections and collaboration. 
